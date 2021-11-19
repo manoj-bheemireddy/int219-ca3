@@ -1,0 +1,53 @@
+body {
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.by {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+hr {
+    width: 5%;
+    border-style: dotted;
+    border-width: 2px;
+    border-bottom: 0px;
+}
+
+.bottom-div {
+    text-align: center;
+}
+
+.bottom-line {
+    text-decoration: underline;
+}
+
+.meme-generator {
+    margin: 20px auto;
+    width: 400px;
+    font-family: sans-serif;
+}
+
+.meme-generator label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.meme-generator input {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+#meme {
+    width: 100%;
+}
